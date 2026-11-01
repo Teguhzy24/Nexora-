@@ -1,0 +1,12 @@
+
+# Konfigurasi database lokal
+config/database.php
+
+# Environment dan data rahasia
+.env
+.env.*
+
+# File sementara
+*.log
+.DS_Store
+Thumbs.db
